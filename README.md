@@ -22,5 +22,5 @@ This is a simple and elegant static website created using **HTML**, **CSS**, and
    ```bash
    https://github.com/Muralidharan-11/Muralidharan-11.github.io.git
 
-2. you wana see my profile
- # [Click Here](https://muralidharan-11.github.io/)
+# you wana see my profile
+ ## [Click Here](https://muralidharan-11.github.io/)

@@ -1,16 +1,23 @@
-## Hi there 👋
+# Murali Dharan - Portfolio Landing Page
 
-<!--
-**Muralidharan-11/Muralidharan-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio landing page! 👋  
+This is a simple and elegant static website created using **HTML**, **CSS**, and **JavaScript** to showcase my skills and background in:
 
-Here are some ideas to get you started:
+- Data Science & Analysis
+- Java Development
+- SQL & RDBMS
+- Basic Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Features
+
+- Scrollable skills section with smooth horizontal scroll
+- Responsive and animated landing page
+- Profile photo display
+- Clean and modern layout
+- Designed for static hosting (GitHub Pages, Netlify, etc.)
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git

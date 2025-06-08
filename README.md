@@ -20,5 +20,7 @@ This is a simple and elegant static website created using **HTML**, **CSS**, and
 
 1. Clone the repository:
    ```bash
-   
-  [Click Here](https://muralidharan-11.github.io/)
+   https://github.com/Muralidharan-11/Muralidharan-11.github.io.git
+
+2. you wana see my profile
+ # [Click Here](https://muralidharan-11.github.io/)
